@@ -1,0 +1,22 @@
+.regForm{
+    
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    
+  }
+  button{
+    margin-top: 10px;    
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 5px;
+
+  }
+  input{
+    margin-top: 10px;
+    border: 2px solid blue;
+    border-radius: 5px;
+  }
